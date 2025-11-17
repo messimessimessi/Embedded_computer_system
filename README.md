@@ -1,2 +1,2 @@
-# 嵌入式
+# Embedded computer system
 Please download and extract before use
